@@ -55,7 +55,7 @@ Follow these steps in your VS Code terminal to publish this repository to your G
 4. **Link to your GitHub repository**:
    Create a new empty repository on [GitHub](https://github.com/new), copy the repository URL, and run:
    ```bash
-   git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+  git remote add origin https://github.com/rohitbadukale2007-eng/prmceam-college-event-management-system.git
    ```
 
 5. **Push your code**:
