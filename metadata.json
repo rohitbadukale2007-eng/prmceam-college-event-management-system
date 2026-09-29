@@ -1,0 +1,6 @@
+{
+  "name": "PRMCEAM College Event Management System",
+  "description": "Basic College Event Registration portal where admin creates events with seat limits and students view remaining seats and register.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
